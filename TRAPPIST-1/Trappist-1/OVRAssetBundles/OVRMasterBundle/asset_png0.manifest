@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2372209504
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eae63105f77156df215dd8ceced463a2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/SpaceSkies Free/Skybox_1/Textures/4K_Resolution/Left_4K_TEX.png
+- Assets/SpaceSkies Free/Skybox_1/Textures/4K_Resolution/Down_4K_TEX.png
+- Assets/SpaceSkies Free/Skybox_1/Textures/4K_Resolution/Front_4K_TEX.png
+- Assets/SpaceSkies Free/Skybox_1/Textures/4K_Resolution/Up_4K_TEX.png
+- Assets/SpaceSkies Free/Skybox_1/Textures/4K_Resolution/Right_4K_TEX.png
+- Assets/Material/planet_c_mat.png
+- Assets/SpaceSkies Free/Skybox_1/Textures/4K_Resolution/Back_4K_TEX.png
+Dependencies: []

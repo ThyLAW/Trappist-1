@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 4290510577
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1311f40150536c7dcc35b6c5a8dfb607
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8215722b766c6decafa3f90512650b44
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Material/Materials/planet_h_mat.mat
+- Assets/Material/Materials/planet_f_mat.mat
+- Assets/Material/Materials/planet_g_mat.mat
+- Assets/Material/Materials/planet_d_mat.mat
+- Assets/Material/Materials/planet_c_mat.mat
+- Assets/Material/Materials/star_mat.mat
+- Assets/Material/Materials/planet_e_mat.mat
+- Assets/Material/Materials/planet_b_mat.mat
+- Assets/SpaceSkies Free/Skybox_1/Pink_4K_Resolution.mat
+Dependencies:
+- C:/Users/Logan/Documents/GitHub/Trappist/TRAPPIST-1/Trappist-1/OVRAssetBundles/OVRMasterBundle/asset_jpg0
+- C:/Users/Logan/Documents/GitHub/Trappist/TRAPPIST-1/Trappist-1/OVRAssetBundles/OVRMasterBundle/asset_png0

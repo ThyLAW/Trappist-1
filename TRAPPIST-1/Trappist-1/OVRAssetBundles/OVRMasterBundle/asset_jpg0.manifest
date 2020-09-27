@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 607201732
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fe9ef996bb24a0085771d98cc8f5c1af
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Material/planet_e_mat.jpg
+- Assets/Material/planet_f_mat.jpg
+- Assets/Material/planet_h_mat.jpg
+- Assets/Material/planet_b_mat.jpg
+- Assets/Material/planet_g_mat.jpg
+- Assets/Material/planet_d_mat.jpg
+- Assets/Material/star_mat.jpg
+Dependencies: []
